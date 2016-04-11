@@ -1,0 +1,33 @@
+PODS:
+  - CHTCollectionViewWaterfallLayout (0.9.1)
+  - HexColors (2.2.1)
+  - JSONModel (1.1.0)
+  - MBProgressHUD (0.9.1)
+  - SDWebImage (3.7.2):
+    - SDWebImage/Core (= 3.7.2)
+  - SDWebImage/Core (3.7.2)
+  - TSMessages (0.9.12):
+    - HexColors
+  - UIColor-HexString (1.1.0)
+  - Unirest (1.1.4)
+
+DEPENDENCIES:
+  - CHTCollectionViewWaterfallLayout (~> 0.9)
+  - JSONModel
+  - MBProgressHUD
+  - SDWebImage (~> 3.7.2)
+  - TSMessages (~> 0.9)
+  - UIColor-HexString
+  - Unirest (~> 1.1.4)
+
+SPEC CHECKSUMS:
+  CHTCollectionViewWaterfallLayout: 1a8da4fc662702cbddda8926ced266036a829f84
+  HexColors: abfd172e329dab59888614ccba6f216cec59289d
+  JSONModel: ec77e9865236a7a09d9cf7668df6b4b328d9ec1d
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  SDWebImage: 71b7cdc1d1721d6a82ed62889030225f2c249e29
+  TSMessages: 2a52642128d7ab15b46930c810b9c9403a2b58f3
+  UIColor-HexString: f8a5612bd6772fed8db58ee594b42a0b2831750e
+  Unirest: 5e4d93eaf32463bf619a4ecd3bbc8c32acf21eac
+
+COCOAPODS: 0.36.4

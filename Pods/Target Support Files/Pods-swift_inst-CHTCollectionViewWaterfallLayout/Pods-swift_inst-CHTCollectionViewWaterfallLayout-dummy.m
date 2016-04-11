@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_swift_inst_CHTCollectionViewWaterfallLayout : NSObject
+@end
+@implementation PodsDummy_Pods_swift_inst_CHTCollectionViewWaterfallLayout
+@end
